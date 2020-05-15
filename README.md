@@ -4,22 +4,24 @@ SPRING 2020  CS-580L-01
 ------------------------------------------------------------------
 Project Topic - SENTIMENT ANALYSIS OF IMDB MOVIE REVIEWS
 ------------------------------------------------------------------
+
 TEAM MEMBERS - 
 
-Chaitanya Kulkarni		
-B-Num: B00814455
-SUNY Binghamton	
-ckulkar2@binghamton.edu
+	Chaitanya Kulkarni		
+	B-Num: B00814455
+	SUNY Binghamton	
+	ckulkar2@binghamton.edu
 
-Abhimanyu Singh
-B-Num: B00813542
-SUNY Binghamton
-asing134@binghamton.edu
+	Abhimanyu Singh
+	B-Num: B00813542
+	SUNY Binghamton
+	asing134@binghamton.edu
 
-Necati Anil Ayan
-B-Num: B00777933
-SUNY Binghamton
-nayan1@binghamton.edu
+	Necati Anil Ayan
+	B-Num: B00777933
+	SUNY Binghamton
+	nayan1@binghamton.edu
+
 ------------------------------------------------------------------
 STEPS TO RUN THE CODE -
 (Note that this program is written in python 3.X and will not work with python 2.X)
